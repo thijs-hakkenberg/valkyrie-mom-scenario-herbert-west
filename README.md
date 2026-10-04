@@ -20,6 +20,8 @@ Two acts:
 - **The potter's field.** Find the right grave by lantern-light, dig, and put the ground back the way it was, while every gleam raises suspicion.
 - **The Chapman farmhouse.** Inject the solution and wait. You may also piece together West's torn formula, a picture puzzle.
 
+The opening is read aloud by a narrator (a local Kokoro voice, made with the valkyrie-mom plugin's `generate_narration`).
+
 ## Play
 
 Once the scenario is listed in Valkyrie's download screen, download it there. Until then, or to play this exact version:
